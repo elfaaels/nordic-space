@@ -1,9 +1,9 @@
-import './assets/css/app.css';
+import 'assets/css/app.css';
 
 function App() {
   return (
     <div className="App">
-      <h1 className="text"></h1>
+      <h1 className="text-xl text">Hero</h1>
     </div>
   );
 }
